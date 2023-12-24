@@ -1,0 +1,23 @@
+ .bb 
+ {
+    border: 1px solid #a49b89;
+    color:#a49b89;
+    /* background-color: rgb(231, 201, 161); */
+    border-radius: 10px;
+    text-align: center;
+  }
+  .bborder {
+    border: 5px dotted #a49b89;
+    color:#a49b89;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 1ch;
+  }
+  .bb:hover {
+    background: #cda45e;
+    color: white;
+  }
+  .bborder:hover {
+    background:#cda45e;
+    color: white;
+  }
